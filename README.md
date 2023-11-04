@@ -35,42 +35,6 @@ Struts:
 ApacheStruts is the open-source web application framework for developing Java web application.It used and extends the Java Servlet API to inspire the developer.Struts undertakes MVC model.It is an architecture that splits the representation of information from user.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Figure 1.1: MVC Architecture
-
 Hibernate:
 Hibernate is the high potential object and query assistance which is accredited under open source GNU LGPL license and it is free to download.Hibernate is responsible for depicting from java class to data table and also proving the data query.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Figure No 1.2: Hibernate Architecture
 
